@@ -1,8 +1,9 @@
 @import url("https://sshafat.github.io/Eris/src/eris-whitney-font.css");
 
 :root, .theme-dark, .theme-light {
-    --font-primary: 'Whitney';
+    /*--font-primary: 'Whitney';
     --font-display: 'Whitney';
+	*/
     --brand-experiment: hsl(227, 58%, 65%);
     --brand-500: var(--brand-experiment);
     --brand-experiment-560: hsl(227, 58%, 67.5%);
